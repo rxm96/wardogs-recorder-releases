@@ -4,11 +4,11 @@ Installers of Wardogs Recorder, a Windows app that records kills in the PC shoot
 while OBS records and turns them into a kill list, markers and clips. The source is private;
 this repository holds only the releases.
 
-## Latest: 0.7.0
+## Latest: 0.8.0
 
-- Download: [Wardogs-Recorder_0.7.0_x64-setup.exe](https://github.com/rxm96/wardogs-recorder-releases/releases/download/v0.7.0/Wardogs-Recorder_0.7.0_x64-setup.exe)
-- SHA-256: `6b9df8dcce849358d88a2c7b3246c09da3b53fe91f747d2d86ecaf3ea1bac5ab`
-- [VirusTotal scan](https://www.virustotal.com/gui/file/6b9df8dcce849358d88a2c7b3246c09da3b53fe91f747d2d86ecaf3ea1bac5ab)
+- Download: [Wardogs-Recorder_0.8.0_x64-setup.exe](https://github.com/rxm96/wardogs-recorder-releases/releases/download/v0.8.0/Wardogs-Recorder_0.8.0_x64-setup.exe)
+- SHA-256: `ab3d44236c63ee1f77b1ac20a7ff34aed7ecb67fa6faaed8fbc653e90e6b4356`
+- [VirusTotal scan](https://www.virustotal.com/gui/file/ab3d44236c63ee1f77b1ac20a7ff34aed7ecb67fa6faaed8fbc653e90e6b4356)
 
 The installer is not code-signed. Unsigned installers are often flagged by one or two
 heuristic engines on VirusTotal; the scan above is of exactly this file.
@@ -22,3 +22,10 @@ heuristic engines on VirusTotal; the scan above is of exactly this file.
 
 After that the app updates itself: it looks for a new version a minute after start and every
 six hours, and asks before it installs one.
+
+## Licences
+
+The installer carries FFmpeg and FFprobe (GPL v3, the "essentials" build from gyan.dev) and
+the fonts Inter and Barlow (SIL Open Font License). Their licence texts and where FFmpeg's
+source is are in THIRD-PARTY-NOTICES.txt in the installation folder and under "Third-party
+licences" in the app's Settings.
