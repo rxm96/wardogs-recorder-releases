@@ -4,11 +4,11 @@ Installers of Wardogs Recorder, a Windows app that records kills in the PC shoot
 while OBS records and turns them into a kill list, markers and clips. The source is private;
 this repository holds only the releases.
 
-## Latest: 0.13.0
+## Latest: 0.14.0
 
-- Download: [Wardogs-Recorder_0.13.0_x64-setup.exe](https://github.com/rxm96/wardogs-recorder-releases/releases/download/v0.13.0/Wardogs-Recorder_0.13.0_x64-setup.exe)
-- SHA-256: `818aea1841acbf541212a9937598ab243b52cee994b828e5ac85baaff3e8d0fd`
-- [VirusTotal scan](https://www.virustotal.com/gui/file/818aea1841acbf541212a9937598ab243b52cee994b828e5ac85baaff3e8d0fd)
+- Download: [Wardogs-Recorder_0.14.0_x64-setup.exe](https://github.com/rxm96/wardogs-recorder-releases/releases/download/v0.14.0/Wardogs-Recorder_0.14.0_x64-setup.exe)
+- SHA-256: `0105e85574489928f60b649226eae542236553a4ec8074009419dd16e61b2060`
+- [VirusTotal scan](https://www.virustotal.com/gui/file/0105e85574489928f60b649226eae542236553a4ec8074009419dd16e61b2060)
 
 The installer is not code-signed. Unsigned installers are often flagged by one or two
 heuristic engines on VirusTotal; the scan above is of exactly this file.
